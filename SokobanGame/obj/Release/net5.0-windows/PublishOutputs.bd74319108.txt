@@ -1,0 +1,11 @@
+C:\Users\acer\Desktop\New folder\images\blank.bmp
+C:\Users\acer\Desktop\New folder\images\key.png
+C:\Users\acer\Desktop\New folder\images\open_treasure_chest.jpg
+C:\Users\acer\Desktop\New folder\images\penguin.bmp
+C:\Users\acer\Desktop\New folder\images\treasure_chest.jpg
+C:\Users\acer\Desktop\New folder\images\wall.jpg
+C:\Users\acer\Desktop\New folder\SokobanGame.exe
+C:\Users\acer\Desktop\New folder\SokobanGame.dll
+C:\Users\acer\Desktop\New folder\SokobanGame.deps.json
+C:\Users\acer\Desktop\New folder\SokobanGame.runtimeconfig.json
+C:\Users\acer\Desktop\New folder\SokobanGame.pdb

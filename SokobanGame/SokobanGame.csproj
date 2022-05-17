@@ -1,0 +1,49 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="images\bg-mountains.png" />
+    <None Remove="images\bg-warehouse.jpg" />
+    <None Remove="images\blank.bmp" />
+    <None Remove="images\character.png" />
+    <None Remove="images\floor.jpg" />
+    <None Remove="images\key.png" />
+    <None Remove="images\open_treasure_chest.jpg" />
+    <None Remove="images\open_treasure_chest.png" />
+    <None Remove="images\penguin.bmp" />
+    <None Remove="images\treasure_chest.jpg" />
+    <None Remove="images\treasure_chest.png" />
+    <None Remove="images\wall.jpg" />
+    <None Remove="images\wall.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="images\bg-warehouse.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\blank.bmp">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\character.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\floor.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\key.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\treasure_chest.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\wall.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+</Project>
